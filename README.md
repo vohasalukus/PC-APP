@@ -17,6 +17,6 @@
 - **React Context API**
 - **React Native Vector Icons**
 
-![](auth.png) <img src="auth.png" width="200"/>  ![](main.png)  ![](profile.png)  ![](cart.png)
+![](auth.png)<img src="auth.png" width="250"/>  ![](main.png)<img src="main.png" width="250"/>  ![](profile.png)<img src="profile.png" width="250"/>  ![](cart.png)<img src="cart.png" width="250"/>
 
 ![](cowboy.gif)
