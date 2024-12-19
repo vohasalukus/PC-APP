@@ -11,10 +11,10 @@
 
 ## Используемые технологии
 
-- **React Native**: Для создания кроссплатформенных мобильных приложений.
-- **Expo**: Упрощает разработку с удобными инструментами и настройками.
-- **React Navigation**: Для удобной навигации между экранами.
-- **React Context API**: Для управления состоянием корзины.
-- **React Native Vector Icons**: Для добавления векторных иконок, таких как иконка корзины.
+- **React Native**
+- **Expo**
+- **React Navigation**
+- **React Context API**
+- **React Native Vector Icons**
 
 ![](cowboy.gif)
