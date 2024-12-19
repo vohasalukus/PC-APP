@@ -19,6 +19,6 @@
 
 # Пример работы:
 
-<img src="auth.png" width="220"/>  <img src="main.png" width="220"/>  <img src="profile.png" width="220"/>  <img src="cart.png" width="220"/>
+<img src="auth.png" width="230"/>  <img src="main.png" width="220"/>  <img src="profile.png" width="220"/>  <img src="cart.png" width="220"/>
 
 ![](cowboy.gif)
