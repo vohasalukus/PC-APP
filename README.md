@@ -17,6 +17,6 @@
 - **React Context API**
 - **React Native Vector Icons**
 
-![](Снимок экрана 2024-12-19 171413.png)
+![](auth.png)  ![](main.png)  ![](profile.png)  ![](cart.png)
 
 ![](cowboy.gif)
