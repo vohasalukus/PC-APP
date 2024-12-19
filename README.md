@@ -17,4 +17,6 @@
 - **React Context API**
 - **React Native Vector Icons**
 
+![](Снимок экрана 2024-12-19 171413.png)
+
 ![](cowboy.gif)
